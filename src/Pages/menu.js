@@ -384,6 +384,12 @@ C 11
 
           <div class="row mt-5 fs-2">
             <div class="col"></div>
+  <button
+              class="col button_check"
+              onClick={() => setCurrentMode(" ")}
+            >
+              Назад
+            </button>
             <button class="button_check" onClick={() => checkResult()}>
               Проверить
             </button>
@@ -543,6 +549,12 @@ C 11
 
           <div class="row mt-5 fs-2">
             <div class="col"></div>
+<button
+              class="col button_check"
+              onClick={() => setCurrentMode(" ")}
+            >
+              Назад
+            </button>
             <button class="col button_check" onClick={() => checkResult()}>
               Проверить
             </button>
