@@ -69,7 +69,12 @@ a{
 }
 
 .mini_input{
-  width:45px;
+  width:60px;
+  height: 45px;
+  font-size: 30px;
+}
+.mini_check_input{
+  width:65px;
   height: 45px;
   font-size: 30px;
 }
@@ -111,6 +116,12 @@ a{
     border-radius: 15px;
     font-size: 20px;
     margin-left: 0px;
+  }
+  .mini_check_input{
+    width: 0px;
+    height:0px;
+    overflow: 0;
+    opacity: 0;
   }
 }
 
