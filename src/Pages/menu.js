@@ -682,7 +682,7 @@ C 11
         <div className="title">Логика и таблица истинности.</div>
         <div className="title"> Выберите режим:</div>
         <a className="menu_item" onClick={() => setCurrentMode(1)}>
-          1. Классная работа - 2 переменные
+          1. Пробная работа - 2 переменные
         </a>
         <br />
         <a className="menu_item" onClick={() => setCurrentMode(2)}>
@@ -690,7 +690,7 @@ C 11
         </a>
         <br />
         <a className="menu_item" onClick={() => setCurrentMode(3)}>
-          3. Классная работа - 3 переменные
+          3. Пробная работа - 3 переменные
         </a>
         <br />
         <a className="menu_item" onClick={() => setCurrentMode(4)}>
