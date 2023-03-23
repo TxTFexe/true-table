@@ -561,6 +561,14 @@ C 11
               Переменые A, B, C
             </details>
           </div>
+<div class="guide">
+            <div class="col">
+              <details>
+                <summary>Справочник</summary>
+                <img src="https://cdn.discordapp.com/attachments/638404294873186314/1088433519824478259/image.png" />
+              </details>
+            </div>
+          </div>
         </div>
       </>
     );
@@ -650,14 +658,7 @@ C 11
               Переменые A, B, C
             </details>
           </div>
-          <div class="guide">
-            <div class="col">
-              <details>
-                <summary>Справочник</summary>
-                <img src="https://cdn.discordapp.com/attachments/638404294873186314/1088433519824478259/image.png" />
-              </details>
-            </div>
-          </div>
+          
         </div>
       </>
     );
