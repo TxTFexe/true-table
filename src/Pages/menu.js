@@ -670,19 +670,19 @@ C 11
         <div className="title">Логика и таблица истинности.</div>
         <div className="title"> Выберите режим:</div>
         <a className="menu_item" onClick={() => setCurrentMode(1)}>
-          Классная работа - 2 переменные
+          1. Классная работа - 2 переменные
         </a>
         <br />
         <a className="menu_item" onClick={() => setCurrentMode(2)}>
-          Контрольная работа - 2 переменные
+          2. Контрольная работа - 2 переменные
         </a>
         <br />
         <a className="menu_item" onClick={() => setCurrentMode(3)}>
-          Классная работа - 3 переменные
+          3. Классная работа - 3 переменные
         </a>
         <br />
         <a className="menu_item" onClick={() => setCurrentMode(4)}>
-          Контрольная работа - 3 переменные
+          4. Контрольная работа - 3 переменные
         </a>
       </div>
     </>
