@@ -1,0 +1,113 @@
+.container{
+    max-width: 1230px;
+    padding: 0 36px;
+    margin: 0 auto;
+}
+
+header{
+  text-align: center;
+}
+
+.input_field{
+  display: flex;
+  width: 100%;
+  font-size: 26px;
+  height: 45px;
+}
+
+.mini_box{
+  width:45px;
+  height: 45px;
+  font-size: 30px;
+}
+
+.hide{
+  display: none;
+}
+
+.white{
+  background-color: white;
+}
+
+.red{
+  background-color: red;
+}
+
+a{
+  font-size: 30px;
+}
+
+.title{
+  font-size: 40px;
+}
+
+.table{
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.row{
+  display: flex;
+  justify-content: space-between;
+}
+
+.table div{
+  width: 55px;
+  height: 52px;
+  font-size: 30px;
+}
+
+.max_input{
+  width: 270px;
+  height: 45px;
+  font-size: 30px;
+}
+
+.mini_input{
+  width:45px;
+  height: 45px;
+  font-size: 30px;
+}
+
+.guide{
+  font-size: 24px;
+}
+
+.menu_item:hover{
+  cursor: pointer;
+  color: #325c9b;
+}
+
+.button_check{
+  border: none;
+  height: 50px;
+  width: 300px;
+  border-radius: 15px;
+  font-size: 20px;
+  margin-left: 460px;
+}
+
+.button_check:hover{
+  cursor: pointer;
+}
+
+.result{
+  font-size: 26px;
+  text-align: center;
+}
+
+@media (max-width: 450px) {
+  .max_input{
+    width: 100px;
+  }
+  .button_check{
+    border: none;
+    height: 50px;
+    width: 120px;
+    border-radius: 15px;
+    font-size: 20px;
+    margin-left: 0px;
+  }
+}
+
