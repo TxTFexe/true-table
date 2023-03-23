@@ -366,12 +366,42 @@ C 11
               <div>0</div>
               <div>1</div>
             </div>
-            <div className="table">
-              <input className="max_input" />
-              <input className="max_input" />
-              <input className="max_input" />
-              <input className="max_input" />
-              <input className="max_input" />
+            <div classname="table">
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
             </div>
             <div className="table">
               <div>F</div>
@@ -380,7 +410,9 @@ C 11
               <input className="mini_input" />
               <input className="mini_input" />
             </div>
-          </div>
+            </div>
+            
+          
 
           <div class="row mt-5 fs-2">
             <div class="col"></div>
@@ -442,12 +474,42 @@ C 11
               <div>0</div>
               <div>1</div>
             </div>
-            <div className="table">
-              <input className="max_input" />
-              <input className="max_input" />
-              <input className="max_input" />
-              <input className="max_input" />
-              <input className="max_input" />
+            <div classname="table">
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
             </div>
             <div className="table">
               <div>F</div>
@@ -523,16 +585,70 @@ C 11
               <div>0</div>
               <div>1</div>
             </div>
-            <div className="table">
-              <input className="max_input" />
-              <input className="max_input" />
-              <input className="max_input" />
-              <input className="max_input" />
-              <input className="max_input" />
-              <input className="max_input" />
-              <input className="max_input" />
-              <input className="max_input" />
-              <input className="max_input" />
+            <div classname="table">
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
             </div>
             <div className="table">
               <div>F</div>
@@ -626,16 +742,70 @@ C 11
               <div>0</div>
               <div>1</div>
             </div>
-            <div className="table">
-              <input className="max_input" />
-              <input className="max_input" />
-              <input className="max_input" />
-              <input className="max_input" />
-              <input className="max_input" />
-              <input className="max_input" />
-              <input className="max_input" />
-              <input className="max_input" />
-              <input className="max_input" />
+            <div classname="table">
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
+            <div className="row">
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+              <input className="mini_check_input" />
+            </div>
             </div>
             <div className="table">
               <div>F</div>
