@@ -335,15 +335,16 @@ C 11
       mainInput.classList.remove("red");
       mainInput.classList.add("white");
       setResult(cnt);
-      setCheck(1);
-      console.log(`Чекинг ${check}`);
+      
       if (currentMode == 2 || currentMode == 4) {
+        setCheck(1);
         button.classList.add("red");
       }
     }
   };
 
   if (currentMode == 1) {
+    
     return (
       <>
         <div>
@@ -452,6 +453,7 @@ C 11
       </>
     );
   } else if (currentMode == 2) {
+   
     return (
       <>
         <div>
@@ -544,6 +546,7 @@ C 11
       </>
     );
   } else if (currentMode == 3) {
+    
     return (
       <>
         <div>
@@ -701,6 +704,7 @@ C 11
       </>
     );
   } else if (currentMode == 4) {
+    
     return (
       <>
         <div>
