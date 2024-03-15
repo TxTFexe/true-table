@@ -445,7 +445,7 @@ C 11
             <div class="col">
               <details>
                 <summary>Справочник</summary>
-                <img src="https://cdn.discordapp.com/attachments/638404294873186314/1088433519824478259/image.png" />
+                <img src="https://media.discordapp.net/attachments/638404294873186314/1088433519824478259/image.png?ex=66055d35&is=65f2e835&hm=ec7b60a7db5cd9c7aa8b40521261ebac2896556309868ca35cf2c5850a025e0c&=&format=webp&quality=lossless" />
               </details>
             </div>
           </div>
