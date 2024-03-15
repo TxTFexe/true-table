@@ -97,7 +97,7 @@ C 11
       } else if (this.s[this.pos] == "*") {
         this.pos++;
         this.curr = 1;
-      } else if (this.s[this.pod] == "-") {
+      } else if (this.s[this.pos] == "-") {
         this.pos++;
         this.curr = 4;
       } else if (this.pos < this.n && this.s[this.pos] == " ") {
